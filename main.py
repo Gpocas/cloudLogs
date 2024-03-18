@@ -29,5 +29,3 @@ except Exception as exc:
                      extra={"tags": {"severity": "exception"}})
     
 
-
-
